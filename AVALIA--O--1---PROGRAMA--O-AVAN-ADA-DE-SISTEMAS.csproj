@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>AVALIA__O__1___PROGRAMA__O_AVAN_ADA_DE_SISTEMAS</RootNamespace>
+  </PropertyGroup>
+
+</Project>

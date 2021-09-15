@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = AVALIA__O__1___PROGRAMA__O_AVAN_ADA_DE_SISTEMAS
+build_property.ProjectDir = /home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/

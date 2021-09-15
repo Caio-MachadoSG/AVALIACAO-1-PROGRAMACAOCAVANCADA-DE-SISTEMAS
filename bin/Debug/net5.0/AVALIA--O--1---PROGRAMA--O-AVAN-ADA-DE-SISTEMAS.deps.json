@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/1.0.0": {
+        "runtime": {
+          "AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

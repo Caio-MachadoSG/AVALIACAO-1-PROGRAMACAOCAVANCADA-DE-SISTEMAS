@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/caiomsg/.dotnet/store/|arch|/|tfm|",
+      "/home/caiomsg/.nuget/packages"
+    ]
+  }
+}

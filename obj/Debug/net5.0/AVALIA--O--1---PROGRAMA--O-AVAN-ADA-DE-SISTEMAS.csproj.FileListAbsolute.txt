@@ -1,0 +1,16 @@
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/obj/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.csproj.AssemblyReference.cache
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/obj/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/obj/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.AssemblyInfoInputs.cache
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/obj/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.AssemblyInfo.cs
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/obj/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.csproj.CoreCompileInputs.cache
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/bin/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/bin/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.deps.json
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/bin/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.runtimeconfig.json
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/bin/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.runtimeconfig.dev.json
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/bin/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.dll
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/bin/Debug/net5.0/ref/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.dll
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/bin/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.pdb
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/obj/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.dll
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/obj/Debug/net5.0/ref/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.dll
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/obj/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.pdb
+/home/caiomsg/Documentos/GitHub/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS/obj/Debug/net5.0/AVALIA--O--1---PROGRAMA--O-AVAN-ADA-DE-SISTEMAS.genruntimeconfig.cache
